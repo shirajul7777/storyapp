@@ -1,21 +1,20 @@
-
 {
-  "latest_version_code": 1,
-  "latest_version_name": "1.0",
-  "minimum_required_version": 1,
-  "release_notes": "📚 নতুন গল্প ও স্পন্সর সাপোর্ট যুক্ত হয়েছে। পারফর্মেন্স উন্নয়ন হয়েছে।",
-  "download_links": [
+  "versionCode": 2,
+  "versionName": "1.1",
+  "updateMessage": "নতুন গল্প, নতুন ফিচার এবং বাগ ফিক্সসহ নতুন ভার্সন এসেছে!",
+  "isForceUpdate": true,
+  "downloadLinks": [
     {
       "name": "Google Drive",
       "url": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID"
     },
     {
       "name": "APKPure",
-      "url": "https://apkpure.com/your-app-id/download?from=details"
+      "url": "https://apkpure.com/your-app"
     },
     {
-      "name": "MediaFire",
-      "url": "https://download.mediafire.com/your-app.apk"
+      "name": "Mediafire",
+      "url": "https://www.mediafire.com/file/your_file.apk/file"
     }
   ]
 }
